@@ -1,8 +1,12 @@
-# React + Vite
+#Em Construção
+Este é o repositório do meu portfólio em construção. Estou trabalhando duro para trazer uma representação visual e interativa das minhas habilidades, projetos e experiências profissionais.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#O que esperar
+Atualizações frequentes: Estou comprometido em manter este espaço atualizado com os meus últimos projetos e conquistas.
 
-Currently, two official plugins are available:
+Design aprimorado: Estou refinando o design para tornar a experiência de navegação mais agradável e intuitiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Conteúdo personalizado: Estou adicionando informações relevantes sobre as minhas habilidades e experiências para fornecer uma visão abrangente do meu perfil profissional.
+
+Fique à vontade para visitar novamente em breve e ver o progresso. Obrigado pela paciência!
+
